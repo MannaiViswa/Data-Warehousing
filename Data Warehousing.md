@@ -1,6 +1,6 @@
 # Project Title: Data Warehousing
 
-## Part 1: Problem Definition and Design Considerations
+## Phase 1: Problem Definition and Design Considerations
 
 ### Problem Definition
 
