@@ -18,4 +18,3 @@ The core objective of this project is to establish a high-performance data wareh
 
 - **Business Insights:** Our primary focus is on delivering actionable insights. To achieve this, we're implementing real-time data monitoring and alerting mechanisms. Decision-makers will access dashboards and reports for quick, informed choices. Furthermore, ad-hoc querying capabilities enable dynamic exploration of data from multiple dimensions, supporting on-the-fly decision support.
 
-These comprehensive design elements collectively form the foundation of our project. Our data warehouse isn't just a repository; it's a strategic asset empowering informed, data-driven decisions throughout the organization.
